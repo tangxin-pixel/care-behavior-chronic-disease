@@ -1,0 +1,7 @@
+Term,OR,95% CI (low),95% CI (high),p value
+Intercept,0.295,0.271,0.319,2.339999999999999e-190
+Age (years),NA,NA,NA,NA
+Gender (1 = female),NA,NA,NA,NA
+Medication count,1.319,1.286,1.353,3.7099999999999995e-102
+Vaccination count,0.847,0.817,0.876,2.41e-20
+Encounter count,1.069,1.065,1.074,1.0999999999999995e-221
