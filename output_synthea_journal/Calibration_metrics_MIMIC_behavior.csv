@@ -1,4 +1,0 @@
-Model,Brier,Slope,Intercept,HL_pvalue
-Logistic Regression,0.321171433,1.503733285,0.976220057,0
-Random Forest,0.61060236,2.24630718,1.350306528,NA
-XGBoost,NA,NA,NA,NA

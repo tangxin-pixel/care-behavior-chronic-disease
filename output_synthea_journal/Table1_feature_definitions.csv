@@ -1,7 +1,0 @@
-Feature,Source,Meaning,Expected_Association
-Age,Birthdate,Patient age (years),Positive
-Gender_num,Gender,"Male=1, Female=0",Mildly positive
-Polypharmacy indicator,Medications,Number of unique medication codes,Strong positive
-Immunization cadence,Immunizations,Number of immunization records,Negative (protective)
-Encounter burden,Encounters,Number of encounter records,Positive
-Avg condition duration,Conditions,Mean duration of conditions (days),Positive

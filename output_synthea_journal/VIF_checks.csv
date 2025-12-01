@@ -1,4 +1,0 @@
-Variable,VIF,note
-med_count,1.1392868744467304,car::vif
-vax_count,1.0014472277076862,car::vif
-encounter_count,1.13850779314569,car::vif

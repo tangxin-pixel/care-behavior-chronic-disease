@@ -1,7 +1,0 @@
-Model,Dataset,AUC,PR_AUC,F1
-Logistic Regression,Synthea (internal test),0.855740055,0.884957365,0.775193798
-Logistic Regression,MIMIC-IV ICU (external),0.621279762,0.908660234,0.547008547
-Random Forest,Synthea (internal test),0.861185774,0.871784928,0.816943275
-Random Forest,MIMIC-IV ICU (external),0.562127976,0.870725819,0.603174603
-XGBoost,Synthea (internal test),NA,NA,NA
-XGBoost,MIMIC-IV ICU (external),NA,NA,NA
